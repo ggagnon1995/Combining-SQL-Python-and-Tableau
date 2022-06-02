@@ -8,3 +8,5 @@
 * Once you get to step 4, you will have to alter the SQL server name if you wish to download the results yourself. 
 
 * The predictions are saved in a .csv file if you wish to double check your predictions are similar. 
+
+* You can view the interactive Tableau graphs [here](https://public.tableau.com/app/profile/georgie.gagnon/viz/Udemy-CombiningPythonSQLandTableau/AgevsProbability).
